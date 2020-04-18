@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1586633091 source:c:\users\edattilo\documents\damian utn\programacion 2020\tp 1 previo\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586805885 source:c:\users\edattilo\documents\damian utn\programacion 2020\tp 1 previo\tp 1\utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1586977474 source:c:\users\edattilo\documents\damian utn\programacion 2020\tp 1\tp 1\utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1587148102 source:c:\users\edattilo\documents\damian utn\programacion 2020\tp 1\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"alumnoD.h"
+
+1586995287 c:\users\edattilo\documents\damian utn\programacion 2020\tp 1\tp 1\utn.h
+
+1587147978 c:\users\edattilo\documents\damian utn\programacion 2020\tp 1\tp 1\alumnod.h
+
+1587148767 source:c:\users\edattilo\documents\damian utn\programacion 2020\tp 1\tp 1\alumnod.c
+	<stdio.h>
+	<stdlib.h>
+
+1587148767 source:c:\users\edattilo\documents\damian utn\programacion 2020\tp 1\copia tp1\tp 1\alumnod.c
+	<stdio.h>
+	<stdlib.h>
+
+1587168168 source:c:\users\edattilo\documents\damian utn\programacion 2020\tp 1\copia tp1\tp 1\utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1587168485 source:c:\users\edattilo\documents\damian utn\programacion 2020\tp 1\copia tp1\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"alumnoD.h"
+
+1587168134 c:\users\edattilo\documents\damian utn\programacion 2020\tp 1\copia tp1\tp 1\utn.h
+
+1587147978 c:\users\edattilo\documents\damian utn\programacion 2020\tp 1\copia tp1\tp 1\alumnod.h
+
