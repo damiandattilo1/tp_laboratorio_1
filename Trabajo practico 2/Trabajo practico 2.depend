@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588190805 source:c:\users\edattilo\documents\damian utn\programacion 2020\tp 1 previo\trabajo practico 2\arrayemployees.c
+
+1588191302 source:c:\users\edattilo\documents\damian utn\programacion 2020\tp 1 previo\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1589643249 source:c:\users\damia\documents\damian\programacion utn\trabajos practicos\trabajo practico 2\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1589644248 c:\users\damia\documents\damian\programacion utn\trabajos practicos\trabajo practico 2\trabajo practico 2\arrayemployees.h
+
+1589644449 source:c:\users\damia\documents\damian\programacion utn\trabajos practicos\trabajo practico 2\trabajo practico 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
