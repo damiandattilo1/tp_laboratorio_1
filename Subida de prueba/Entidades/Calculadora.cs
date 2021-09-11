@@ -17,7 +17,7 @@ namespace Entidades
         /// <param name="operador"></param> el operador para la operacion
         /// <returns></returns> el resultado en variable double
         public static double Operar(Numero num1, Numero num2, string operador)
-        {
+        {//nuevooooooooooooooooooooooooooooooooooooooooooooooooo
             int operadorInt;
             string operadorString;
             char operadorChar;
